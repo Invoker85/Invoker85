@@ -6,4 +6,4 @@
 - 💬 Ask me about SAP & Excel
 - 📫 How to reach me: stefan-maximilian.ch
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: im from bavaria
+- ⚡ Fun fact: Choose joy and health; success will follow natural
