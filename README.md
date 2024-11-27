@@ -1,4 +1,6 @@
-# About me
+## About me
+
+# Choose joy and health; success will follow natural
 
 - 🔭 I’m currently working on SQL, html & css
 - 🌱 I’m currently learning Python
@@ -6,4 +8,4 @@
 - 💬 Ask me about SAP & Excel
 - 📫 How to reach me: stefan-maximilian.ch
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Choose joy and health; success will follow natural
+- ⚡ Fun fact: im from bavaria
