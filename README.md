@@ -1,6 +1,6 @@
-## About me
+# About me
 
-# Choose joy and health; success will follow natural
+### Choose joy and health; success will follow natural
 
 - 🔭 I’m currently working on SQL, html & css
 - 🌱 I’m currently learning Python
